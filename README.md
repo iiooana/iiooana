@@ -1,4 +1,8 @@
-## Hi 👋 My name is Ioana | Full stack
+## Hi 👋 
+
+Hi, my name is Ioana.
+I like everything that is code, systems, and data. 
+I like to find the root of the workflow. I like to solve problems and always learn new skills. 
 
 <!--
 **iiooana/iiooana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
